@@ -1,0 +1,10 @@
+{
+  "name": "PoseFit Arena",
+  "description": "Futuristic AI-powered space fitness training game using real-time MoveNet pose detection in your browser.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
